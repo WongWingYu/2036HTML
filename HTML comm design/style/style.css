@@ -1,0 +1,25 @@
+ p{
+    font-size: 20px;
+    color: red; }
+   
+    p, ul, ol {
+      color: green;
+}
+.standout
+{
+   color:blue
+}
+
+.hkbu_info{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 1cm;
+   font-weight: normal;
+   font-style: normal;
+   background: RGB(0 , 250 , 231)
+}
+
+
+
+
+
+
